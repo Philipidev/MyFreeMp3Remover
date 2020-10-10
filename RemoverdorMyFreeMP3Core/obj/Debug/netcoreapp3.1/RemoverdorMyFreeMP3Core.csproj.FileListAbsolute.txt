@@ -1,0 +1,16 @@
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\bin\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.exe
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\bin\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.deps.json
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\bin\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.runtimeconfig.json
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\bin\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.runtimeconfig.dev.json
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\bin\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.dll
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\bin\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.pdb
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\obj\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.csprojAssemblyReference.cache
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\obj\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.csproj.GenerateResource.cache
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\obj\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.AssemblyInfoInputs.cache
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\obj\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.AssemblyInfo.cs
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\obj\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\obj\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.dll
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\obj\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.pdb
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\obj\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.genruntimeconfig.cache
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\obj\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.Properties.Resources.resources
+C:\Users\phili\source\repos\RemoverdorMyFreeMP3Core\RemoverdorMyFreeMP3Core\obj\Debug\netcoreapp3.1\RemoverdorMyFreeMP3Core.MyFreeMP3Remover.resources
